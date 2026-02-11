@@ -35,15 +35,6 @@ Atualmente trabalhando com **Next.js**, **TypeScript**, **PostgreSQL** e **Docke
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richard-pyx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-pyx&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
----
-
 ## 💼 Experiência
 
 - **Desenvolvimento Full Stack**: Aplicações web com Next.js e Node.js
